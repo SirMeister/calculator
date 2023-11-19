@@ -21,4 +21,12 @@ elif operation == 'subtract':
 elif operation == 'multiply':
     print(f"The result is: {calc.multiply(a, b)}")
 else:
+
     print("Invalid operation!")# This is feature z
+
+
+    print("Invalid operation!")# This is feature x
+
+    print("Invalid operation!")# This is feature y
+
+
