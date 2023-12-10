@@ -16,7 +16,7 @@ class TestCalculator(unittest.TestCase):
 
     # This test will fail
     def test_add_fail(self):
-        self.assertEqual(self.calc.add(2, 2), 5)
+        self.sdfassertEqual(self.calc.add(2, 2), 5)
 
     # This test will fail
     def test_subtract_fail(self):
